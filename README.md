@@ -35,7 +35,7 @@ Introductory C++
 
 **Python Libraries**  
 pandas • numpy • scikit-learn • matplotlib • seaborn  
-requests • BeautifulSoup4  
+requests • BeautifulSoup4 • Streamlit
 
 **Chemistry & Scientific Computing**  
 Computational chemistry fundamentals (Gaussian, DFT, spectroscopy)  
